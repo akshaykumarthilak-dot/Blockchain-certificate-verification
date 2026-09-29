@@ -1,0 +1,17 @@
+{
+  "name": "certificate-verification-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["blockchain", "certificate", "verification", "ethereum"],
+  "author": "Qriocity",
+  "license": "ISC",
+  "description": "Blockchain smart contracts for certificate verification system",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "truffle": "^5.11.5",
+    "web3": "^4.16.0"
+  }
+}
